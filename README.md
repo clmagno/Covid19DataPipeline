@@ -27,7 +27,7 @@ This project aims to ingest, process, and analyze COVID-19 data from the Johns H
 
 8. **Docker**: Install Docker for containerization.
 
-9. **mage.ai**: Install mage.ai for data orchestration.
+9. **dagster**: Install dagster for data orchestration. `pip install dagster dagit`
 
 10. **dbt**: Install dbt for data transformation.
 
